@@ -27,6 +27,7 @@ namespace Figura
             Console.WriteLine("El punto de referencia del rectangulo es ({0},{1})", r1.Referencia.X, r1.Referencia.Y);
             
             Console.WriteLine("c1.CompareTo(r1) {0}", c1.CompareTo(r1));
+            Console.WriteLine("Just only testing the commit");
         }
     }
 }

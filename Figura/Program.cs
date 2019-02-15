@@ -28,6 +28,7 @@ namespace Figura
             
             Console.WriteLine("c1.CompareTo(r1) {0}", c1.CompareTo(r1));
             Console.WriteLine("Just only testing the commit");
+            Console.WriteLine("Just only added other comment");
         }
     }
 }
